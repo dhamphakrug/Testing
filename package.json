@@ -1,0 +1,22 @@
+{
+  "name": "newpackage",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhamphakrug/Testing.git"
+  },
+  "keywords": [
+    "Test"
+  ],
+  "author": "Dann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhamphakrug/Testing/issues"
+  },
+  "homepage": "https://github.com/dhamphakrug/Testing#readme"
+}
